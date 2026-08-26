@@ -21,6 +21,7 @@ Entries below, most recent first.
 
 ### Self-Hosted n8n Migration & Lead Capture Automation
 
+![Lead capture workflow canvas](./screenshots/lead-capture-workflow.webp)
 Built a full lead-capture automation: a webhook receives form submissions, scores each lead hot/warm/cold based on message content, then routes to Slack, email, and Google Sheets depending on score.
 
 Midway through, my n8n Cloud trial expired, forcing a full migration to a self-hosted instance on Railway (Postgres + n8n containers). Every credential had to be rebuilt from scratch:
