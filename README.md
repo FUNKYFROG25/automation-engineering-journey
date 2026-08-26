@@ -2,6 +2,8 @@
 
 Documenting my journey into automation engineering — building workflows, connecting APIs, and learning software fundamentals to solve real-world operational bottlenecks.
 
+**Nova Draft (my automation practice):** [nova-draft-systems.lovable.app](https://nova-draft-systems.lovable.app) · **LinkedIn:** [linkedin.com/company/nova-draft43](https://linkedin.com/company/nova-draft43)
+
 ## Background
 Junior AI Automation Developer based in South Africa, building toward remote automation engineering work while growing Nova Draft, my automation practice. Started after seeing repetitive manual processes firsthand while managing operations at a car wash.
 
