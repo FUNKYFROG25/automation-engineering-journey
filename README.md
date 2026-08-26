@@ -18,3 +18,7 @@ Entries below, most recent first.
 
 ### [Date] — Entry title
 What I built, what broke, how I fixed it, what I learned.
+
+## Certifications
+- n8n Level 1 Certified — 
+<img width="1123" height="794" alt="Your First Workflows" src="https://github.com/user-attachments/assets/ef22026f-584a-4ee8-b579-b36bfffc49ef" />
