@@ -20,5 +20,7 @@ Entries below, most recent first.
 What I built, what broke, how I fixed it, what I learned.
 
 ## Certifications
-- n8n Level 1 Certified — [view certificate](./certificates/n8n-level-1.png)
+- n8n Level 1 Certified
+
+![n8n Level 1 Certificate](./certificates/n8n-level-1.png)
 
