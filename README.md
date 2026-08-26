@@ -34,6 +34,7 @@ One stubborn bug: a Filter node kept discarding valid leads no matter how I conf
 
 **What I learned:** infrastructure constraints (blocked ports, expired trials, encryption keys not persisting across restarts) often cause more debugging time than the actual logic does. Documenting the root cause — not just the fix — makes the next migration faster.
 
+**Full project & schema:** [pawnshop-auction-manager](https://github.com/FUNKYFROG25/pawnshop-auction-manager) · [database/schema.sql](https://github.com/FUNKYFROG25/pawnshop-auction-manager/blob/main/database/schema.sql)
 ---
 
 ### Multi-Tenant Database Architecture (Pawn Shop Client Project)
